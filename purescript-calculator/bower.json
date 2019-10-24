@@ -1,0 +1,19 @@
+{
+  "name": "purescript-calculator",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.1.1",
+    "purescript-console": "^3.0.0",
+    "purescript-parsing": "^4.3.1",
+    "purescript-maps": "^3.6.0",
+    "purescript-simple-repl": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
