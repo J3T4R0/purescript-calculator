@@ -16,7 +16,7 @@
         "virtual-dom": "^2.1.1"
     },
     "devDependencies": {
-        "node-sass": "4.3.0",
+        "node-sass": "4.14.1",
         "onchange": "3.2.1",
         "pulp": "10.0.0",
         "purescript": "0.10.2"
